@@ -1,31 +1,4 @@
-// $("red").on("click",function(){
-//     var sound=("./sounds/red.mp3");
-//     sound.play();
-//     $("red").addClass("pressed");
-//     setTimeout(function(){$("red").removeClass("pressed");},100);
 
-// });
-// $("blue").on("click",function(){
-//     var sound=("./sounds/blue.mp3");
-//     sound.play();
-//     $("blue").addClass("pressed");
-//     setTimeout(function(){$("blue").removeClass("pressed");},100);
-
-// });
-// $("green").on("click",function(){
-//     var sound=("./sounds/green.mp3");
-//     sound.play();
-//     $("green").addClass("pressed");
-//     setTimeout(function(){$("green").removeClass("pressed");},100);
-
-// });
-// $("yellow").on("click",function(){
-//     var sound=("./sounds/yellow.mp3");
-//     sound.play();
-//     $("yellow").addClass("pressed");
-//     setTimeout(function(){$("yellow").removeClass("pressed");},100);
-
-// });
 var buttonColors=["red","blue","green","yellow"];
 var gamePattern=[];
 var userClickedPattern=[];
